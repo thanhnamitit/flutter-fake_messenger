@@ -1,0 +1,1815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f988efc1-208e-4b76-8cb1-7ab541cf5a34" name="Default Changelist" comment="Happy new year :D">
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ConversationMakerFlutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle____local_aars____Users_lap01270_Documents_flutter_ConversationMakerFlutter_build_app_intermediates_flutter_debug_libs_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_core_core_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_1_0_beta01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_java8_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_alpha3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_alpha3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_test_monitor_1_1_0_alpha3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_test_runner_1_1_0_alpha3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_rc01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_github_yalantis_ucrop_2_2_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_firebase_firebase_common_16_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_12_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_squareup_okio_okio_1_15_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_arm64_v8a_debug_1_0_0_2994f7e1e682039464cb25e31a78b86a3c59b695_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_armeabi_v7a_debug_1_0_0_2994f7e1e682039464cb25e31a78b86a3c59b695_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_flutter_embedding_debug_1_0_0_2994f7e1e682039464cb25e31a78b86a3c59b695_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_x86_64_debug_1_0_0_2994f7e1e682039464cb25e31a78b86a3c59b695_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_x86_debug_1_0_0_2994f7e1e682039464cb25e31a78b86a3c59b695_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/navanvi/conversationmaker/app/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings_aar.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bg_map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_11.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_12.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_13.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_14.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_15.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_16.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_17.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_18.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_19.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_20.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/emoji/emoji_default.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ic_arrow_right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ic_camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ic_four_dots.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ic_microphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ic_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_avatar_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_default_avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/brown/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/meep/tile031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mimiandneko/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile032.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile033.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile034.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile035.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile036.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/mugsy/tile039.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/piyomaru/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/qoobee/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/tonton2/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/usagyuuun/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sticker/yam/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_01.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.symlinks/flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.symlinks/plugins/image_cropper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.symlinks/plugins/image_picker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.symlinks/plugins/keyboard_visibility" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.symlinks/plugins/path_provider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.symlinks/plugins/sqflite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/App" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/bg_map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_10.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_11.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_12.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_13.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_14.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_15.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_16.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_17.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_18.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_19.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_20.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/emoji/emoji_default.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/ic_arrow_right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/ic_camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/ic_four_dots.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/ic_microphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/ic_photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/img_avatar_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/img_default_avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/img_like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/img_wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/brown/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/meep/tile031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mimiandneko/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile032.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile033.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile034.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile035.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile036.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/mugsy/tile039.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/piyomaru/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/qoobee/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/tonton2/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/usagyuuun/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/assets/sticker/yam/tile023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/Flutter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMDB.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMDatabase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMDatabase.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMDatabaseAdditions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMDatabaseAdditions.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMDatabasePool.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMDatabasePool.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMDatabaseQueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMDatabaseQueue.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMResultSet.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/FMDB/src/fmdb/FMResultSet.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/FMDB/FMDB.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/FMDB/FMDatabase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/FMDB/FMDatabaseAdditions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/FMDB/FMDatabasePool.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/FMDB/FMDatabaseQueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/FMDB/FMResultSet.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/Reachability/Reachability.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOActivityCroppedImageProvider.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropOverlayView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropScrollView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropToolbar.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropViewConstants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropViewControllerTransitioning.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCroppedImageAttributes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/UIImage+CropRotate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/image_cropper/ImageCropperPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/image_picker/FLTImagePickerImageUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/image_picker/FLTImagePickerMetaDataUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/image_picker/FLTImagePickerPhotoAssetUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/image_picker/ImagePickerPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/keyboard_visibility/KeyboardVisibilityPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/path_provider/PathProviderPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/sqflite/SqfliteOperation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Private/sqflite/SqflitePlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/FMDB/FMDB.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/FMDB/FMDatabase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/FMDB/FMDatabaseAdditions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/FMDB/FMDatabasePool.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/FMDB/FMDatabaseQueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/FMDB/FMResultSet.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/Reachability/Reachability.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOActivityCroppedImageProvider.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropOverlayView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropScrollView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropToolbar.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropViewConstants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropViewControllerTransitioning.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCroppedImageAttributes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/UIImage+CropRotate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/image_cropper/ImageCropperPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/image_picker/FLTImagePickerImageUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/image_picker/FLTImagePickerMetaDataUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/image_picker/FLTImagePickerPhotoAssetUtil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/image_picker/ImagePickerPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/keyboard_visibility/KeyboardVisibilityPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/path_provider/PathProviderPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/sqflite/SqfliteOperation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Headers/Public/sqflite/SqflitePlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Local Podspecs/Flutter.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Local Podspecs/image_cropper.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Local Podspecs/image_picker.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Local Podspecs/keyboard_visibility.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Local Podspecs/path_provider.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Local Podspecs/sqflite.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/FMDB.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/Flutter.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/Pods-Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/Reachability.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/TOCropViewController-TOCropViewControllerBundle.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/TOCropViewController.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/image_cropper.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/image_picker.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/keyboard_visibility.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/path_provider.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/sqflite.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Reachability/LICENCE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Reachability/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Reachability/Reachability.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Reachability/Reachability.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Categories/UIImage+CropRotate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Categories/UIImage+CropRotate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Constants/TOCropViewConstants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOActivityCroppedImageProvider.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOActivityCroppedImageProvider.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOCropViewControllerTransitioning.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOCropViewControllerTransitioning.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOCroppedImageAttributes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOCroppedImageAttributes.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/Base.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ar.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/da-DK.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/de.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/en.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/es.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/fa-IR.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/fa.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/fi.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/fr.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/hu.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/id.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/it.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ja.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ko.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ms.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/nl.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/pl.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/pt.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ro.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ru.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/tr.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/vi.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/zh-Hans.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/zh-Hant.lproj/TOCropViewControllerLocalizable.strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/TOCropViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/TOCropViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropOverlayView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropOverlayView.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropScrollView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropScrollView.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropToolbar.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropToolbar.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropView.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/TOCropViewController/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/FMDB/FMDB-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/FMDB/FMDB-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/FMDB/FMDB.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Flutter/Flutter.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-resources.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Reachability/Reachability-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Reachability/Reachability-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Reachability/Reachability.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/TOCropViewController/ResourceBundle-TOCropViewControllerBundle-TOCropViewController-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/TOCropViewController/TOCropViewController-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/TOCropViewController/TOCropViewController-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/TOCropViewController/TOCropViewController.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/image_cropper/image_cropper-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/image_cropper/image_cropper-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/image_cropper/image_cropper.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/image_picker/image_picker-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/image_picker/image_picker-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/image_picker/image_picker.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/keyboard_visibility/keyboard_visibility-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/keyboard_visibility/keyboard_visibility-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/keyboard_visibility/keyboard_visibility.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/path_provider/path_provider-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/path_provider/path_provider-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/path_provider/path_provider.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/sqflite/sqflite-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/sqflite/sqflite-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/sqflite/sqflite.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/ServiceDefinitions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/base/base_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/base/widget/bounce_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/constant/constant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/fuctional/one_time_value.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/fuctional/pair.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/fuctional/safe_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/helper/UIHelpers.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/route_config.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/util/date_time_utils.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/util/image_picker_utils.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/util/image_utils.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/util/keyboard_utils.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/datasource/local/app_database.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/repository/repository_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/di/provider/use_case_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/di/provider/view_model_provider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/di/provider_setup.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/entity/conversation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/entity/factory/message_factory.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/entity/message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/entity/story.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/entity/story_image.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/repository/repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/conversation/add_message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/conversation/delete_message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/conversation/get_all_message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/conversation/update_message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/create_story.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/get_all_stories.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/get_user_avatar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/home/create_conversation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/home/delete_conversation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/home/get_all_conversations.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/domain/usecase/update_conversatoin/update_conversation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/feature.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/feature/runtime_behavior.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/my_app.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/conversation/conversation_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/conversation/conversation_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/conversation/dialog/message_option_bottom_sheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/conversation/emoji_item_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/conversation/message_item_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/conversation/page_children/conversation_input_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/conversation/page_children/conversation_sticker_picker_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/edit_conversation/edit_conversation_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/edit_conversation/edit_conversation_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/home/home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/home/home_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/home/item/conversation/conversation_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/home/item/conversation/conversation_item_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/new_conversation/new_conversation_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/new_conversation/new_conversation_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/splash/splash_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/splash/splash_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/story/setup/setup_story_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/page/story/setup/setup_story_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/resource/R.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/resource/color_resource.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/resource/drawable_resource.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/resource/number_resource.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/resource/route.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/resource/style.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/avatar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/bubble_tab_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/clipper/bottom_wave_clipper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/dialog/text_input_dialog.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/dynamic_image.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/emoji.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/item/dynamic_circle_avatar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/item/message/emoji_message_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/item/message/first_message_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/item/message/message_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/item/message/normal_message_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/item/story/self_story_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/item/story/story_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/picker/color_and_emoji_picker.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/story_preview_image.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/user_avatar/user_avatar_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widget/user_avatar/user_avatar_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/deploy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/fixlog.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/gen.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/core/util/date_time_utils_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/domain/usecase/conversation/add_message_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/domain/usecase/conversation/delete_message_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/domain/usecase/conversation/get_all_message_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/domain/usecase/conversation/update_message_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/domain/usecase/home/create_conversation_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/domain/usecase/home/delete_conversaion_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/domain/usecase/home/get_all_conversation_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/mock.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/page/home/conversation_item_view_model_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/page/home/conversation_view_model_test.dart" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RF8M827PRGM" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rebuildddd</find>
+      <find>Build here</find>
+      <find>emoji</find>
+      <find>showa</find>
+      <find>notifyListeners</find>
+      <find>Here ne</find>
+      <find>(navanvi.conversationmaker.conversation_maker</find>
+      <find>navanvi.conversationmaker.conversation_maker</find>
+      <find>lastTimeUpdated</find>
+      <find>gest</find>
+      <find>Print ne</find>
+      <find>trigg</find>
+      <find>inserting</find>
+      <find>ve day ne</find>
+      <find>Tap ne hi</find>
+      <find>enabl</find>
+      <find>search</find>
+      <find>aa</find>
+      <find>searc</find>
+      <find>dispose ne hic</find>
+      <find>appba</find>
+      <find>pick</find>
+      <find>alignment</find>
+      <find>BoxDecoration</find>
+      <find>camera</find>
+      <find>floatingAc</find>
+      <find>stories</find>
+      <find>rrect</find>
+      <find>rect</find>
+      <find>fail</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Message</replace>
+      <replace>R.color.homeGrey</replace>
+      <replace>navanvi.conversationmaker.app</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/resource/drawable_resource.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/item/dynamic_circle_avatar.dart" />
+        <option value="$PROJECT_DIR$/lib/core/base/widget/bounce_button.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/item/story/self_story_item.dart" />
+        <option value="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/lib/domain/entity/factory/story_image.dart" />
+        <option value="$PROJECT_DIR$/test/domain/usecase/home/load_add_stories_test.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/usecase/load_all_stories.dart" />
+        <option value="$PROJECT_DIR$/test/domain/usecase/repository/repository_impl_test.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/usecase/home/create_conversation.dart" />
+        <option value="$PROJECT_DIR$/test/domain/usecase/home/create_conversation_test.dart" />
+        <option value="$PROJECT_DIR$/test/mock.dart" />
+        <option value="$PROJECT_DIR$/test/page/home/conversation_view_model_test.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/usecase/get_all_stories.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/repository/repository.dart" />
+        <option value="$PROJECT_DIR$/lib/di/provider/use_case_provider.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/usecase/create_story.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/entity/story.g.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/entity/story_image.dart" />
+        <option value="$PROJECT_DIR$/lib/data/repository/repository_impl.dart" />
+        <option value="$PROJECT_DIR$/ios/.symlinks/plugins/sqflite/analysis_options.yaml" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/page/home/home_view_model.dart" />
+        <option value="$PROJECT_DIR$/lib/core/base/base_view_model.dart" />
+        <option value="$PROJECT_DIR$/lib/core/config/app_config.dart" />
+        <option value="$PROJECT_DIR$/lib/resource/route.dart" />
+        <option value="$PROJECT_DIR$/lib/di/provider/view_model_provider.dart" />
+        <option value="$PROJECT_DIR$/lib/resource/R.dart" />
+        <option value="$PROJECT_DIR$/lib/page/new_conversation/new_conversation_view_model.dart" />
+        <option value="$PROJECT_DIR$/script/gen.sh" />
+        <option value="$PROJECT_DIR$/lib/page/edit_conversation/edit_conversation_page.dart" />
+        <option value="$PROJECT_DIR$/lib/resource/color_resource.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/entity/conversation.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/entity/story.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/item/story/story_item.dart" />
+        <option value="$PROJECT_DIR$/lib/main.dart" />
+        <option value="$PROJECT_DIR$/lib/page/new_conversation/new_conversation_page.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/DynamicImage.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/dynamic_image.dart" />
+        <option value="$PROJECT_DIR$/lib/resource/style.dart" />
+        <option value="$PROJECT_DIR$/lib/page/story/setup/setup_story_view_model.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/story_preview_image.dart" />
+        <option value="$PROJECT_DIR$/lib/page/story/setup/setup_story_page.dart" />
+        <option value="$PROJECT_DIR$/lib/page/home/home_page.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/avatar.dart" />
+        <option value="$PROJECT_DIR$/lib/resource/number_resource.dart" />
+        <option value="$PROJECT_DIR$/lib/domain/entity/factory/message_factory.dart" />
+        <option value="$PROJECT_DIR$/lib/page/conversation/page_children/conversation_input_widget.dart" />
+        <option value="$PROJECT_DIR$/lib/widget/item/message/normal_message_item.dart" />
+        <option value="$PROJECT_DIR$/lib/core/route_config.dart" />
+        <option value="$PROJECT_DIR$/lib/page/splash/splash_page.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="77" />
+    <option name="y" value="23" />
+    <option name="width" value="1273" />
+    <option name="height" value="949" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ConversationMakerFlutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConversationMakerFlutter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="algorithm" value="Scalr" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="format" value="PNG" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="lastFolderRoot" value="$USER_HOME$/Downloads/preview.png" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="method" value="Automatic" />
+    <property name="resolutions" value="HDPI&#10;XXHDPI&#10;XXXHDPI&#10;MDPI&#10;XHDPI" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="sourceResolution" value="XHDPI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/core" />
+      <recent name="$PROJECT_DIR$/lib/page/conversation/home" />
+      <recent name="$PROJECT_DIR$/lib/domain/entity" />
+      <recent name="$PROJECT_DIR$/lib/widget/item/story" />
+      <recent name="$PROJECT_DIR$/script" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Create conversation group test" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="Create conversation group test" />
+      <option name="testFile" value="$PROJECT_DIR$/test/domain/usecase/home/create_conversation_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test load all stories" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="Test load all stories" />
+      <option name="testFile" value="$PROJECT_DIR$/test/domain/usecase/home/load_add_stories_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in conversation_item_view_model_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testFile" value="$PROJECT_DIR$/test/page/home/conversation_item_view_model_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in date_time_utils_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testFile" value="$PROJECT_DIR$/test/core/util/date_time_utils_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in test" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testDir" value="$PROJECT_DIR$/test" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.tests in test" />
+        <item itemvalue="Flutter Test.tests in date_time_utils_test.dart" />
+        <item itemvalue="Flutter Test.tests in conversation_item_view_model_test.dart" />
+        <item itemvalue="Flutter Test.Test load all stories" />
+        <item itemvalue="Flutter Test.Create conversation group test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f988efc1-208e-4b76-8cb1-7ab541cf5a34" name="Default Changelist" comment="" />
+      <created>1572538520750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572538520750</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Move to Provider for state management and Sembast for LocalDatabase">
+      <created>1574482251849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574482251849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update github action">
+      <created>1575899560106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575899560106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update github action">
+      <created>1575900173722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575900173722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add fastlane">
+      <created>1575900512490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575900512490</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update gen.sh">
+      <created>1575900776286</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575900776286</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update gen.sh">
+      <created>1575901098452</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575901098452</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test github action">
+      <created>1575901931901</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575901931901</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Test github action">
+      <created>1575902053871</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575902053871</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Test github action">
+      <created>1575902448001</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575902448001</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test github action">
+      <created>1575902605942</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575902605942</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update gradle build">
+      <created>1575948492721</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575948492721</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update gradle wrapper">
+      <created>1575949017791</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575949017793</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update gradle wrapper">
+      <created>1575949037200</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575949037200</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update build_and_test_action">
+      <created>1575951051953</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575951051954</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update build_and_test action">
+      <created>1575951419228</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575951419228</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update build_and_test action">
+      <created>1575951738176</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575951738176</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Building story">
+      <created>1576762902307</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1576762902307</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Building story">
+      <created>1578062430413</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1578062430413</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Happy new year :D">
+      <created>1578063048503</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1578063048503</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="tests_in_conversation_item_view_model_test_dart - 2019.11.24 at 19h 53m 23s.xml">
+      <configuration name="tests in conversation_item_view_model_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_test - 2019.11.24 at 19h 53m 42s.xml">
+      <configuration name="tests in test" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_test - 2019.11.24 at 20h 01m 50s.xml">
+      <configuration name="tests in test" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_test - 2019.11.30 at 10h 04m 23s.xml">
+      <configuration name="tests in test" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_test - 2019.11.30 at 10h 08m 41s.xml">
+      <configuration name="tests in test" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="Test_load_all_stories - 2019.12.14 at 14h 51m 58s.xml">
+      <configuration name="Test load all stories" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="Test_load_all_stories - 2019.12.14 at 14h 53m 42s.xml">
+      <configuration name="Test load all stories" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="Create_conversation_group_test - 2019.12.14 at 15h 00m 04s.xml">
+      <configuration name="Create conversation group test" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_test - 2019.12.14 at 15h 11m 14s.xml">
+      <configuration name="tests in test" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_test - 2019.12.14 at 15h 11m 59s.xml">
+      <configuration name="tests in test" configurationId="FlutterTestConfigType" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="77" y="23" width="1273" height="949" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.5017361" side_tool="true" weight="0.30560133" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4982639" visible="true" weight="0.2672624" />
+      <window_info id="Structure" order="2" sideWeight="0.5017361" side_tool="true" weight="0.30560133" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Build Variants" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49550286" weight="0.3325554" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.32905483" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.49941656" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49713817" weight="0.3395566" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5044971" side_tool="true" weight="0.3302217" />
+      <window_info anchor="bottom" id="Flutter Performance" order="5" sideWeight="0.501634" side_tool="true" weight="0.32788798" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="6" visible="true" weight="0.3722287" />
+      <window_info anchor="bottom" id="Logcat" order="7" sideWeight="0.49917626" weight="0.33605602" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dart Analysis" order="9" sideWeight="0.49754903" weight="0.32905483" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.498366" weight="0.32788798" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.32788798" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32905483" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" weight="0.32924837" />
+      <window_info anchor="right" id="Flutter Outline" order="3" weight="0.32924837" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="6" weight="0.32843137" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" sideWeight="0.5017361" side_tool="true" weight="0.30560133" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4982639" visible="true" weight="0.33115292" />
+      <window_info id="Structure" order="2" sideWeight="0.5017361" side_tool="true" weight="0.30560133" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Build Variants" order="8" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49550286" visible="true" weight="0.3302217" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.32905483" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.49941656" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49713817" weight="0.28704783" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5044971" side_tool="true" weight="0.3302217" />
+      <window_info anchor="bottom" id="Flutter Performance" order="5" sideWeight="0.501634" side_tool="true" weight="0.32788798" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3757293" />
+      <window_info anchor="bottom" id="Logcat" order="7" sideWeight="0.49917626" weight="0.33605602" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dart Analysis" order="9" sideWeight="0.49754903" weight="0.32905483" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.498366" weight="0.32788798" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.32788798" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32905483" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" weight="0.32924837" />
+      <window_info anchor="right" id="Flutter Outline" order="3" weight="0.32924837" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="6" weight="0.32843137" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Move to Provider for state management and Sembast for LocalDatabase" />
+    <MESSAGE value="update github action" />
+    <MESSAGE value="Add fastlane" />
+    <MESSAGE value="Update gen.sh" />
+    <MESSAGE value="Test github action" />
+    <MESSAGE value="Update gradle build" />
+    <MESSAGE value="Update gradle wrapper" />
+    <MESSAGE value="Update build_and_test_action" />
+    <MESSAGE value="Update build_and_test action" />
+    <MESSAGE value="Building story" />
+    <MESSAGE value="Happy new year :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Happy new year :D" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/domain/repository/repository.dart</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="dart-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>widget.viewMOdel</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wiget.</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wiget</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropView.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Views/TOCropView.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropViewConstants.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropViewConstants.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Constants/TOCropViewConstants.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Target Support Files/TOCropViewController/TOCropViewController-dummy.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Target Support Files/TOCropViewController/TOCropViewController-prefix.pch">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/TOCropViewController-TOCropViewControllerBundle.xcscheme">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropViewController.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropViewController.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/TOCropViewController.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/TOCropViewController.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Target Support Files/TOCropViewController/TOCropViewController.xcconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/TOCropViewController.xcscheme">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/Base.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ar.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/da-DK.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/de.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/en.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/es.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/fa-IR.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/fa.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/fi.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/fr.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/hu.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/id.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/it.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ja.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ko.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ms.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/nl.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/pl.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/pt.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ro.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/ru.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/tr.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/vi.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/zh-Hans.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Resources/zh-Hant.lproj/TOCropViewControllerLocalizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/TOCropViewControllerTransitioning.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.packages">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/TOCropViewControllerTransitioning.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOCropViewControllerTransitioning.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Models/TOCropViewControllerTransitioning.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Headers/Private/TOCropViewController/UIImage+CropRotate.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Headers/Public/TOCropViewController/UIImage+CropRotate.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Categories/UIImage+CropRotate.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/TOCropViewController/Objective-C/TOCropViewController/Categories/UIImage+CropRotate.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/lap01270.xcuserdatad/xcschemes/xcschememanagement.plist">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

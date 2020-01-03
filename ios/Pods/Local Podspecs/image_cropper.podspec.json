@@ -1,0 +1,30 @@
+{
+  "name": "image_cropper",
+  "version": "0.0.1",
+  "summary": "A Flutter plugin supports cropping images",
+  "description": "A Flutter plugin supports cropping images",
+  "homepage": "https://github.com/hnvn/flutter_image_cropper",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "HungHD": "hunghd.yb@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "TOCropViewController": [
+      "~> 2.5.0"
+    ]
+  },
+  "static_framework": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}

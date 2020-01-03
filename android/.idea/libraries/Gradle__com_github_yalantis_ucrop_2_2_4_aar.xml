@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.yalantis:ucrop:2.2.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67e0d9b1edc8362491393c01a4a3ead7/ucrop-2.2.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67e0d9b1edc8362491393c01a4a3ead7/ucrop-2.2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67e0d9b1edc8362491393c01a4a3ead7/ucrop-2.2.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.4/7a5d3b4555c4e60c2a282c8963b3fe0b3da152e6/ucrop-2.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.4/7557ed0b6f673e1264a764831a9f5929874529cb/ucrop-2.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
