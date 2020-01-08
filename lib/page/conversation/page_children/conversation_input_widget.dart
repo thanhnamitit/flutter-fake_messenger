@@ -9,8 +9,8 @@ import 'package:conversation_maker/page/conversation/conversation_view_model.dar
 import 'package:conversation_maker/resource/R.dart';
 import 'package:conversation_maker/widget/emoji.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_keyboard_visibility/flutter_keyboard_visibility.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:keyboard_visibility/keyboard_visibility.dart';
 import 'package:provider/provider.dart';
 
 import 'conversation_sticker_picker_widget.dart';
